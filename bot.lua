@@ -21,21 +21,21 @@ hi :)
 - _test_
 
 /hyper [[text](url)](url)
-- [BeatBot](BeatBot.ir)
+- [zarbat](zarbat.ir)
 
 *EXAMPLE*
 
 /hyper [`Hi`]
 [*I'm a api bot* ]
-[_BeatBot Team created me_]
-[[BeatBot Channel](test)][(http://telegram.me/beatbot_team)]
+[_zarbat Team created me_]
+[[zarbat Channel](test)][(http://telegram.me/zarbat_tm)]
 
 *RESULT*
 
 `Hi`
 *I'm a api bot* 
-_BeatBot Team created me_
-[BeatBot Channel](http://telegram.me/beatbot_team)
+_zarbat Team created me_
+[BeatBot Channel](http://telegram.me/zarbat_tm)
 
 *OTHER*
 
