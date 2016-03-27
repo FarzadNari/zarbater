@@ -35,7 +35,7 @@ hi :)
 `Hi`
 *I'm a api bot* 
 _zarbat Team created me_
-[BeatBot Channel](http://telegram.me/zarbat_tm)
+[zarbat Channel](http://telegram.me/zarbat_tm)
 
 *OTHER*
 
@@ -207,7 +207,7 @@ function bot_run()
 
 	bot = bot.result
 
-	local bot_info = "Username = @"..bot.username.."\nName = "..bot.first_name.."\nId = "..bot.id.." \nBeatBot hyper bot :)\ntnx to @imandaneshi & @Unfriendly\neditor: @amirho3inf \nchannel : @BeatBot_Team"
+	local bot_info = "Username = @"..bot.username.."\nName = "..bot.first_name.."\nId = "..bot.id.." \nzarbat writer hyper bot :)\ntnx to @ehsan_zarbat & @mohammad_070 & paya_zarbat\developer: @farzad_zarbat \nchannel : @zarbat_Tm"
 
 	print(bot_info)
 
@@ -263,7 +263,7 @@ function msg_processor(msg)
 
 elseif msg.text:match("^/[sS]tart") or msg.text:match("^/[Hh]elp") then
  sendMessage(msg.chat.id, start, true, false, true)
-  sendMessage(msg.chat.id, [[[ربات خودتونو بسازید :)](http://telegram.me/beatbot_team)]], true, false, true)
+  sendMessage(msg.chat.id, [[[developer :)](http://telegram.me/farzad_zarbat)]], true, false, true)
 return end
 
 end
