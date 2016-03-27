@@ -207,7 +207,7 @@ function bot_run()
 
 	bot = bot.result
 
-	local bot_info = "Username = @"..bot.username.."\nName = "..bot.first_name.."\nId = "..bot.id.." \nzarbat writer hyper bot :)\ntnx to @ehsan_zarbat & @mohammad_070 & paya_zarbat\developer: @farzad_zarbat \nchannel : @zarbat_Tm"
+	local bot_info = "Username = @"zarbat_writer_bot"\nName = "bot writer"\nId = "..bot.id.." \nzarbat writer hyper bot :)\ntnx to @ehsan_zarbat & @mohammad_070 & paya_zarbat\developer: @farzad_zarbat \nchannel : @zarbat_Tm"
 
 	print(bot_info)
 
